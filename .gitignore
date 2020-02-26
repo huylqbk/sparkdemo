@@ -1,4 +1,4 @@
-src/main/script/
+script/
 .idea
 target/
 *.iml
